@@ -7,4 +7,4 @@ a. Alfa ve los datos que cargaron los demas en su repositorio? Si
 b. Si Alfa agrega un archivo los demas lo ven? Si
 c. Si Beta agregar un archivo los demas lo ven? Si
 d. De que forma se comunicaron entre ustedes? GitHub, Whatsapp
-e. Cual es la mejor forma de comunicarse entre ustedes dentro de github?
+e. Cual es la mejor forma de comunicarse entre ustedes dentro de github? La mejor forma de comunicarse es mediante los commits donde se hace una breve descripción de lo que se modificó o mediante los archivos txt donde se puede usar para colocar aclaraciones extensas.
