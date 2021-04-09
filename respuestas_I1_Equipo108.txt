@@ -1,0 +1,10 @@
+
+ALPHA - Logiudice, Ignacio
+BETA - Dietz, Juan
+GAMMA - Villareal, Karen
+
+a. Alfa ve los datos que cargaron los demas en su repositorio? Si
+b. Si Alfa agrega un archivo los demas lo ven? Si
+c. Si Beta agregar un archivo los demas lo ven?
+d. De que forma se comunicaron entre ustedes?
+e. Cual es la mejor forma de comunicarse entre ustedes dentro de github?
